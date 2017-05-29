@@ -1,4 +1,7 @@
-
+---
+title: This is my title
+layout: post
+---
 
 Graduate Student in Laboratory of [Dr. Tim R. Peterson](http://petersonlab.wustl.edu/)<br>
 [LinkedIn](https://www.linkedin.com/in/ji-woong-park-662b6919) <br>
