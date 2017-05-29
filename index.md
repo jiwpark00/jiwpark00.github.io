@@ -2,8 +2,7 @@
 theme: jekyll-theme-minimal
 title: Ji Woong Park
 description: Genetics and Data Science
-name: Ji Woong Park
-author: 
+
 ---
 
 
