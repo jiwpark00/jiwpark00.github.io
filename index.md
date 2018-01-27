@@ -7,7 +7,7 @@ Graduate Student in Laboratory of [Dr. Tim R. Peterson](http://petersonlab.wustl
 [LinkedIn](https://www.linkedin.com/in/ji-woong-park-662b6919) <br>
 [@neuro2data](https://twitter.com/neuro2data) <br>
 [Github](https://github.com/jiwpark00) <br>
-<img src="https://pbs.twimg.com/profile_images/722199568897744896/WlVuMssM_400x400.jpg" height="50" width="50">
+<img src="https://pbs.twimg.com/profile_images/722199568897744896/WlVuMssM_400x400.jpg" height="50" width="50"> <br>
 ---
 
 
